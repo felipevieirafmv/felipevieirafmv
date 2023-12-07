@@ -1,17 +1,15 @@
 ### Hello there 👋
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-  alt="Github stats"
-/>
-<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
 <img
-  align="center"
   src="https://github-profile-trophy.vercel.app/?username=felipevieirafmv&row=2&column=3&theme=darkhub&no-frame=true&no-bg=true"
 />
+
+<img
+  scr=""
 
 ## Contatos:
 
