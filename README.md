@@ -8,15 +8,10 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
-<a
-  href="https://github.com/ryo-ma/github-profile-trophy"
-  title="repositório de troféus"
->
-  <img
-    width="800"
-    src="https://github-profile-trophy.vercel.app/?username=felipevieirafmv&column=8&theme=darkhub&no-frame=true&no-bg=true"
-  />
-</a>
+<img
+  width="800"
+  src="https://github-profile-trophy.vercel.app/?username=felipevieirafmv&column=8&theme=darkhub&no-frame=true&no-bg=true"
+/>
 
 ## Contatos:
 
