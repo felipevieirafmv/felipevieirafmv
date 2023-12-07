@@ -9,7 +9,6 @@
   alt="Github stats"
 />
 <img
-  width="800"
   src="https://github-profile-trophy.vercel.app/?username=felipevieirafmv&row=2&column=3&theme=darkhub&no-frame=true&no-bg=true"
 />
 
