@@ -1,6 +1,13 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Robert Bosch
+<img
+  src="https://github-readme-stats.vercel.app/api?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  alt="Github stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github stats"
+/>
 
 ## Contatos:
 
