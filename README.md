@@ -8,7 +8,7 @@
   alt="Github stats"
 />
 <img
-  scr="https://komarev.com/ghpvc/?username=felipevieirafmv&color=red&style=for-the-badge"
+  scr="https://komarev.com/ghpvc/?username=felipevieirafmv"
 />
 
 ## Contatos:
