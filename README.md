@@ -8,6 +8,9 @@
   alt="Github stats"
 />
 
+<img
+  scr="https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge"
+/>
 
 ## Contatos:
 
