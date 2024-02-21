@@ -7,9 +7,6 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieirafmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
-<img
-  scr="https://komarev.com/ghpvc/?username=felipevieirafmv&color=red&style=for-the-badge"
-/>
 
 ## Contatos:
 
@@ -17,4 +14,7 @@
 <a href="https://www.linkedin.com/in/felipevieirafmv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:felipevieirafmv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/felipev_ieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img
+  scr="https://komarev.com/ghpvc/?username=felipevieirafmv&color=red&style=for-the-badge"
+/>
 </div>
